@@ -8,7 +8,7 @@ This project builds a machine learning model to predict whether a passenger aboa
 
 Vistt kaggle notebook :- https://www.kaggle.com/code/pranjalsapkota/titanic-survival-predictor?scriptVersionId=302683179
 
-#### The model accuracy was around 80% for Random Forest and 82% for XGBoost
+#### The model's cross validation accuracy was around 83.47% for Random Forest and 83.02% for XGBoost
 
 ## Dataset
 
