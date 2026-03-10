@@ -6,6 +6,8 @@
 
 This project builds a machine learning model to predict whether a passenger aboard the RMS Titanic would survive or not based on various attributes such as passenger class, age, fare, and other demographic features.
 
+Vistt kaggle notebook :- https://www.kaggle.com/code/pranjalsapkota/titanic-survival-predictor?scriptVersionId=302683179
+
 #### The model accuracy was around 80% for Random Forest and 82% for XGBoost
 
 ## Dataset
