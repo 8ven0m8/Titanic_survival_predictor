@@ -47,7 +47,8 @@ Target variable:
 8. Evaluate models
 9. Analyzing feature importance
 10. Improving model
-11. Create input sample
+11. Cross validation and confusion matrix
+12. Create input sample
 
 ## Model Used
 
