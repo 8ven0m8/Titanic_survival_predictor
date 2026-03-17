@@ -10,6 +10,9 @@ Visit kaggle notebook :- https://www.kaggle.com/code/pranjalsapkota/titanic-surv
 
 #### The model's cross validation accuracy was around 83.47% for Random Forest and 83.02% for XGBoost
 
+## Updates:
+* 17th Mar 2026: Implemented fastAPI
+
 ## Dataset
 
 The dataset used in this project contains passenger information from the Titanic disaster in 1912.
