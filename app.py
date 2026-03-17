@@ -5,9 +5,10 @@ from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
 
+# middleware added so that the frontend can access it
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],   # allow all (fine for your project)
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
