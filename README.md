@@ -12,7 +12,7 @@ Visit kaggle notebook :- https://www.kaggle.com/code/pranjalsapkota/titanic-surv
 
 ## Updates:
 * 17th Mar 2026: Implemented fastAPI. Test the api on 
-https://titanic-survival-predictor-7ebg.onrender.com/
+https://titanic-survival-predictor-7ebg.onrender.com/docs
 (Its a free tier render deployment so the service might be sleeping)
 
 ## Dataset
