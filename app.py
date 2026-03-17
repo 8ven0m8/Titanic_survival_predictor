@@ -4,6 +4,14 @@ import pandas as pd
 
 app = FastAPI()
 
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],   # allow all (fine for your project)
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 # load model (pipeline)
 model = pickle.load(open("model.pkl", "rb"))
 
