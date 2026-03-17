@@ -11,7 +11,9 @@ Visit kaggle notebook :- https://www.kaggle.com/code/pranjalsapkota/titanic-surv
 #### The model's cross validation accuracy was around 83.47% for Random Forest and 83.02% for XGBoost
 
 ## Updates:
-* 17th Mar 2026: Implemented fastAPI
+* 17th Mar 2026: Implemented fastAPI. Test the api on 
+https://titanic-survival-predictor-7ebg.onrender.com/
+(Its a free tier render deployment so the service might be sleeping)
 
 ## Dataset
 
